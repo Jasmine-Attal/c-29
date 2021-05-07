@@ -61,12 +61,12 @@ function draw() {
   box13.display("lightPink", "pink");
   box14.display("lightPink", "pink");
   box15.display("hotPink", "pink");
-  py1.display(rgb(229, 116, 117), "pink")
-  py2.display(rgb(229, 116, 117), "pink")
-  py3.display(rgb(229, 116, 117), "pink")
-  py4.display(rgb(110, 71, 102), "pink")
-  py5.display(rgb(110, 71, 102), "pink")
-  py6.display(rgb(251, 189, 76), "pink")
+  py1.display(rgb(229, 116, 117), ("pink")
+  py2.display(rgb(229, 116, 117), ("pink")
+  py3.display(rgb(229, 116, 117),( "pink")
+  py4.display(rgb(110, 71, 102), ("pink")
+  py5.display(rgb(110, 71, 102), ("pink")
+  py6.display(rgb(251, 189, 76), ("pink")
   sling.display("Pink");
   stand1.display("purple");
   stand2.display("purple");
